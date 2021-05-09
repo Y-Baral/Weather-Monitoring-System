@@ -13,6 +13,7 @@ Hardware I Used:
 3. LCD
 4. DHT11 Temperature & Humidity Sensor
 5. Power Supply
-test line
-test line
-test
+\
+test line \
+test line \
+test \
