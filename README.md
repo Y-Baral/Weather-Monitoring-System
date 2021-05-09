@@ -8,7 +8,7 @@ every 10 seconds using the NodeMCU module. ThingSpeak is used to host this proje
 charting, analysis and many more. The high-level communication diagram can be seen below.
 ![Cloud_Comms](https://user-images.githubusercontent.com/57636164/117584487-4bbdfa00-b0db-11eb-911a-855005e4bf87.png)
 
-Hardware I Used:
+**Hardware I Used:**
 1. Arduino UNO + DUE
 2. NodeMCU (x2)
 3. LCD
