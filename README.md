@@ -12,5 +12,5 @@ Hardware I Used:
 2. NodeMCU (x2)
 3. LCD
 4. DHT11 Temperature & Humidity Sensor
-5. Power Supply \
+5. Power Supply \\
 test line
