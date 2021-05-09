@@ -15,9 +15,15 @@ charting, analysis and many more. The high-level communication diagram can be se
 4. DHT11 Temperature & Humidity Sensor
 5. Power Supply  
 
-Indoor Module Schematic: 
+**Indoor Module Schematic:** 
 ![indoor](https://user-images.githubusercontent.com/57636164/117585968-6b592080-b0e3-11eb-8f09-fe9dcaf58ba0.PNG)
 
-Outdoor Module Schematic:
+**Outdoor Module Schematic:**
 ![outdoor](https://user-images.githubusercontent.com/57636164/117585979-7449f200-b0e3-11eb-80d2-24d2c0e0b022.PNG)
 
+**Final Results:**  
+![thingspeak](https://user-images.githubusercontent.com/57636164/117587013-be35d680-b0e9-11eb-9d17-d35a6b43495c.PNG)
+
+![result1](https://user-images.githubusercontent.com/57636164/117587007-b83ff580-b0e9-11eb-8fa0-bf15e8bd43e5.PNG)
+
+![result2](https://user-images.githubusercontent.com/57636164/117587020-c5f57b00-b0e9-11eb-96a5-b87df8d9e4c8.PNG)
