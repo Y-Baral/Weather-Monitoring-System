@@ -25,5 +25,3 @@ charting, analysis and many more. The high-level communication diagram can be se
 ![thingspeak](https://user-images.githubusercontent.com/57636164/117587013-be35d680-b0e9-11eb-9d17-d35a6b43495c.PNG)
 
 ![result1](https://user-images.githubusercontent.com/57636164/117587007-b83ff580-b0e9-11eb-8fa0-bf15e8bd43e5.PNG)
-
-![result2](https://user-images.githubusercontent.com/57636164/117587020-c5f57b00-b0e9-11eb-96a5-b87df8d9e4c8.PNG)
