@@ -7,4 +7,11 @@ The outdoor hub communicates the collected temperature and humidity data to the 
 every 10 seconds using the NodeMCU module. ThingSpeak is used to host this project, it allows for historical data 
 charting, analysis and many more. The high-level communication diagram can be seen below.
 ![Cloud_Comms](https://user-images.githubusercontent.com/57636164/117584487-4bbdfa00-b0db-11eb-911a-855005e4bf87.png)
-
+Hardware I Used:
+\s\s
+1. Arduino UNO + DUE
+2. NodeMCU (x2)
+3. LCD
+4. DHT11 Temperature & Humidity Sensor
+5. Power Supply
+test line
