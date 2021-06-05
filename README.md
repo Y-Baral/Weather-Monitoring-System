@@ -6,7 +6,7 @@ between the two hubs. \n
 The outdoor hub communicates the collected temperature and humidity data to the cloud 
 every 10 seconds using the NodeMCU module. ThingSpeak is used to host this project, it allows for historical data 
 charting, analysis and many more. The high-level communication diagram can be seen below.
-![Cloud_Comms](https://user-images.githubusercontent.com/57636164/117584487-4bbdfa00-b0db-11eb-911a-855005e4bf87.png)
+![Cloud_Comms](Assets/cloud_comms.png)
 
 **Hardware I Used:**
 1. Arduino UNO + DUE
@@ -16,12 +16,14 @@ charting, analysis and many more. The high-level communication diagram can be se
 5. Power Supply  
 
 **Indoor Module Schematic:** 
-![indoor](https://user-images.githubusercontent.com/57636164/117585968-6b592080-b0e3-11eb-8f09-fe9dcaf58ba0.PNG)
+![indoor](Assets/indoor_module_schematic.png)
 
 **Outdoor Module Schematic:**
-![outdoor](https://user-images.githubusercontent.com/57636164/117585979-7449f200-b0e3-11eb-80d2-24d2c0e0b022.PNG)
+![outdoor](Assets/outdoor_module_schematic.png)
 
 **Final Results:**  
-![thingspeak](https://user-images.githubusercontent.com/57636164/117587013-be35d680-b0e9-11eb-9d17-d35a6b43495c.PNG)
+![thingspeak](Assets/results_thingspeak.png)
 
-![result1](https://user-images.githubusercontent.com/57636164/117587007-b83ff580-b0e9-11eb-8fa0-bf15e8bd43e5.PNG)
+![result1](Assets/results_outdoor.png)
+
+![results2](Assets/results_indoor.jpg)
