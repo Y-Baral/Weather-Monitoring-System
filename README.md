@@ -5,7 +5,7 @@ displayed. There is a button on the main hub that gives the user the ability to 
 between the two hubs. \
 The outdoor hub communicates the collected temperature and humidity data to the cloud 
 every 10 seconds using the NodeMCU module. ThingSpeak is used to host this project, it allows for historical data 
-charting, analysis and many more. The high-level communication diagram can be seen below.
+charting and analysis. The high-level communication diagram can be seen below.
 ![Cloud_Comms](Assets/cloud_comms.png)
 
 **Hardware I Used:**
